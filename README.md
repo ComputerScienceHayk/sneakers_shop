@@ -31,10 +31,11 @@ _Used Flutter version **3.3.4**_
 For installing Flutter wisit  [flutter.dev](https://flutter.dev/).
 
 ## Images
-
-![screenshot_1.](screenshots/screenshot_1.jpg "screenshot_1")
-![screenshot_2.](screenshots/screenshot_2.jpg "screenshot_2")
-![screenshot_3.](screenshots/screenshot_3.jpg "screenshot_3")
+<p float="center">
+  <img src="screenshots/screenshot_1.jpg width="220" />
+  <img src="screenshots/screenshot_2.jpg  width="220" /> 
+  <img src=screenshots/screenshot_3.jpg width="220" />
+</p>
 
 ## Project structure
 

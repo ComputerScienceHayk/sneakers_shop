@@ -1,0 +1,30 @@
+[
+  {
+    "name": "nike air-270",
+    "image_path": "assets/images/sneaker_01.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    "price" : "120.00",
+    "count" : "1"
+  },
+  {
+    "name": "air jordan 5 laney jsp",
+    "image_path": "assets/images/sneaker_02.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    "price" : "190.00",
+    "count" : "1"
+  },
+  {
+    "name": "hustle-d-9-flyease",
+    "image_path": "assets/images/sneaker_03.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    "price" : "130.20",
+    "count" : "2"
+  },
+  {
+    "name": "air-max-270-big-kids",
+    "image_path": "assets/images/sneaker_04.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    "price" : "190.20",
+    "count" : "1"
+  }
+]
